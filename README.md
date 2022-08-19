@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on a fullstack Project.
 - 🤔 I’m looking for help with coding interviews.
-- 💬 Ask me about my soft skills. 
-- 📫 How to reach me: [Personal Site](https://enintoah.github.io/portfolio_website/) or [LinkedIn](https://www.linkedin.com/in/anthonie-lorsithong-551741232/)
+- 💬 Ask me about my [Personal Site](https://enintoah.github.io/portfolio_website/). 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anthonie-lorsithong-551741232/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to read and play computer games. 
 
