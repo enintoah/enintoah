@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi I'm Anthonie 👋
 
 - 🔭 I’m currently working on Data Structures and Algorithms.
 - 🌱 I’m currently learning Python.
