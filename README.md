@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I like to read and play computer games. 
 
 ### **Contact Me!**
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/anthonie-lorsithong-551741232/]
+<a href="https://www.linkedin.com/in/anthonie-lorsithong-551741232/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alancln" width="22px" /></a>
 
 #### Top Technologies
 
