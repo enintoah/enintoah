@@ -43,4 +43,4 @@
 
 ### My Stats!
 
-[![enintoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=enintoah)](https://github.com/anuraghazra/github-readme-stats)
+![Enintoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=enintoah&show_icons=true&theme=gruvbox)
