@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my soft skills. 
 - 📫 How to reach me: [Personal Site](https://enintoah.github.io/portfolio_website/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to read and play video games. 
+- ⚡ Fun fact: I like to read and play computer games. 
