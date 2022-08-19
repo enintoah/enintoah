@@ -44,3 +44,7 @@
 ### My Stats!
 
 ![Enintoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=enintoah&show_icons=true&theme=gruvbox)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enintoah&theme=gruvbox)](https://github.com/enintoah/github-readme-stats)
