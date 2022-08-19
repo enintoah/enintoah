@@ -12,6 +12,8 @@
 ### **Contact Me!**
 <a href="https://www.linkedin.com/in/anthonie-lorsithong-551741232/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alancln" width="22px" /></a>
 
+<br />
+
 #### Top Technologies
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
