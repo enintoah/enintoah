@@ -1,7 +1,7 @@
 ## Hi I'm Anthonie 👋
 
 - 🔭 I’m currently working on Data Structures and Algorithms.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, Typecript, and React Hooks.
 - 👯 I’m looking to collaborate on a fullstack Project.
 - 🤔 I’m looking for help with coding interviews.
 - 💬 Ask me about my [Personal Site](https://enintoah.github.io/portfolio_website/)
